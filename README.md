@@ -36,3 +36,20 @@ Train a machine learning model that can classify a new iris flower based on its 
 
 ```python
 RandomForestClassifier(n_estimators=100, random_state=42)
+Built by Ronald Gustavo Pineda
+📧 ronald.pneda8@gmail.com
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you’d like a Spanish version too or if you want to add a screenshot or image to the README!
+
+
+
+
+
+
+
